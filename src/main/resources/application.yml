@@ -1,0 +1,14 @@
+discount:
+  type: PERCENTAGE
+  amount[0]:
+    items: 10
+    cash-discount: 2
+  amount[1]:
+    items: 100
+    cash-discount: 5
+  percentage[0]:
+    items: 10
+    percentage-discount: 3
+  percentage[1]:
+    items: 50
+    percentage-discount: 5
